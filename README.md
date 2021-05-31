@@ -21,7 +21,7 @@ Brought to you by: Alex Li and Yifan Zong (First-year CS and SE students at the 
 > 
 > ```* Note this is a very basic model of a computer that contains only the most essential parts to demonstrate the essential functionalities of a computer.```
 > 
-> Broadly speaking, we have a [**clock**](#1.-Clock-Unit) unit, [**program counter**](#4.-Program-Counter-Unit) unit, [**memory**](#3.-Memory-Unit) unit, [**control**](#6.-Control-Unit) unit, [**arithmetic**](#2.-Arithmetic-Unit) unit, and [**output**](#5.-Output-Unit) unit with a single shared **_bus_**.
+> Broadly speaking, we have a [**clock**](#1-Clock-Unit) unit, [**program counter**](#4-Program-Counter-Unit) unit, [**memory**](#3-Memory-Unit) unit, [**control**](#6-Control-Unit) unit, [**arithmetic**](#2-Arithmetic-Unit) unit, and [**output**](#5-Output-Unit) unit with a single shared **_bus_**.
 
 Figure 1: SAP-1 basic architecture  block diagram
 
@@ -34,7 +34,7 @@ Figure 1: SAP-1 basic architecture  block diagram
 * Astable, Monostable, Bistable modes
 * Build Help/ Our problems + Solutions
 
-> The 555 Timer is a versatile IC with 8 pins that can be used in a variety of different applications. In our project, we implemented the 555 timer in 3 different ways: [**astable**](#1.-Astable-Mode), [**monostable**](#2.-Monostable-Mode), and [**bistable**](#3.-Bistable-Mode) multivibrators.
+> The 555 Timer is a versatile IC with 8 pins that can be used in a variety of different applications. In our project, we implemented the 555 timer in 3 different ways: [**astable**](#1-Astable-Mode), [**monostable**](#2-Monostable-Mode), and [**bistable**](#3-Bistable-Mode) multivibrators.
 
 ### 1. _Astable Mode_
 > An astable multivibrator, put simply, is an **oscillator** that oscillates between two digital states (0 - 1) at regular intervals producing a constant **square wave output**. This is the core component of the clock as it provides a constant pulse upon which all calculations are made.
