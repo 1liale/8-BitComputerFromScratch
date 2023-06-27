@@ -1,4 +1,4 @@
-# 8-BitComputerFromScratch (in progress)
+# 8-BitComputerFromScratch (status: On Pause)
 ![placeholder](assets/8bit-computer.jpg)
 
 Brought to you by: Alex Li and Yifan Zong (First-year CS and SE students at the University of Waterloo, Ontario, Canada)
@@ -14,7 +14,7 @@ Brought to you by: Alex Li and Yifan Zong (First-year CS and SE students at the 
 1. Start Date: Sunday May 2, 2021
 2. Projected Duration: 2-3 months
 3. Every Sunday for 2 - 6 hours
-4. Completion Date: (in progress) 
+4. Completion Date: (On Pause) 
 
 ## _Architecture_
 > As it is our first time building a computer from scratch, we have decided to follow the structure provided by Ben Eater: the [SAP-1 Architecture](https://study-for-exam.blogspot.com/2013/06/describe-sap-1-architecture.html).
@@ -62,30 +62,3 @@ Sample Calculation for clock frequency:
 >  The equations are fairly straight-forward and were taught in first year physics, so feel free to take a look if you’re interested.
 
 ![bonus equation](assets/BonusEquations.png)
-
-### 2. _Monostable Mode_
-
-
-### 3. _Bistable Mode_
-
-<hr>
-
-## 2. _Arithmetic Unit_
-
-<hr>
-
-## 3. _Memory Unit_
-
-<hr>
-
-## 4. _Program Counter Unit_
-
-<hr>
-
-## 5. _Output Unit_
-
-<hr>
-
-## 6. _Control Unit_
-
-
